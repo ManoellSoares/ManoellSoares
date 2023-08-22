@@ -1,4 +1,4 @@
-## Olá! Eu sou Manoel Soares e estou começando na programação.
+## 
 
 <!--
   <div > 
